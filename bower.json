@@ -1,0 +1,17 @@
+{
+    "name": "ubuntu-googlefont",
+    "license": "UFL",
+    "authors": [
+        "Dalton Maag"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/ubuntu-bower.git"
+    },
+    "description": "Ubuntu font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
